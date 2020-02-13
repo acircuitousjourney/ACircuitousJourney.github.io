@@ -1,0 +1,13 @@
+nav a {
+    font-family: Amatic SC;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 50px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: blueviolet;
+}

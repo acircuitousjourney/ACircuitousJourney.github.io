@@ -1,4 +1,14 @@
-/*Fonts*/
+/* Global Styles */
+body.body-container {
+    background-color: #EDDACD;
+}
+
+.header {
+    background-color: #43637A;
+}
+
+
+/* Fonts */
 @font-face {
     font-family: Amatic SC;
     src: url(sansation_light.woff);
