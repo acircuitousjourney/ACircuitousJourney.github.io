@@ -1,0 +1,14 @@
+/*Fonts*/
+@font-face {
+    font-family: Amatic SC;
+    src: url(sansation_light.woff);
+}
+
+/*Main Styles*/
+.post-excerpt-container ul {
+    list-style: none;
+}
+
+.post-excerpt-container li {
+    list-style: none;
+}
