@@ -8,7 +8,7 @@ Sinking into overstuffed red plush couches, surrounded by the bustle of coffee s
 
 Seeing as this is being written before we have anything even up, the [;(formatting] "" might be a ]- bit odd in the end, but please bear with us.
 
-We're still in San Diego (at the cozy Lestat's on Park), but will soon have updates of our adventures from Arizona, Japan, and beyond. Without further ado: Welcome!
+We're still in San Diego (at the cozy Lestat's on Park), <img class="image-thumbnail-right" src="/assets/post-images/2020-February/lestats-couches.jpg"/> but will soon have updates of our adventures from Arizona, Japan, and beyond. Without further ado: Welcome!
 
 <3 
 Colin and Jessie
