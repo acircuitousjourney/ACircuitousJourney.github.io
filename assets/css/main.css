@@ -22,3 +22,8 @@ body.body-container {
 .post-excerpt-container li {
     list-style: none;
 }
+
+.logo {
+    width: auto;
+    height: 40px;
+}
