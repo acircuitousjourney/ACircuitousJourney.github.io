@@ -1,0 +1,8 @@
+.image-thumbnail {
+    height: 275px;
+}
+
+.image-thumbnail-right {
+    height: 275px;
+    float: right;
+}

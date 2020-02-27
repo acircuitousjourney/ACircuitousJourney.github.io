@@ -1,0 +1,33 @@
+/* Global Styles */
+body.body-container {
+    background-color: #EDDACD;
+}
+
+.header {
+    background-color: #43637A;
+}
+
+
+/* Fonts */
+@font-face {
+    font-family: Amatic SC;
+    src: url(sansation_light.woff);
+}
+
+/*Main Styles*/
+.post-exceprpt-container {
+    margin-top: 100px;
+}
+
+.post-excerpt-container ul {
+    list-style: none;
+}
+
+.post-excerpt-container li {
+    list-style: none;
+}
+
+.logo {
+    width: auto;
+    height: 80px;
+}
