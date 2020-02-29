@@ -2,7 +2,7 @@
 layout: post
 title: "Coronavirus"
 date: 2020-02-28 13:45:12 -0800
-image: /assets/post-images/2020-February-Coronavirus
+image: /assets/post-images/2020-February/coronavirus.jpg
 ---
 It's all coronavirus all the time now. We've watched it slowly expand and eat away at the destinations we have planned.
 First, China was clearly out. Then, well South Korea has a warning, but there's only a Level 2 warning from the CDC, so no problem really.

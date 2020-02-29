@@ -15,7 +15,11 @@ body.body-container {
 }
 
 /*Main Styles*/
-.post-exceprpt-container {
+.post-container {
+    margin-top: 10px;
+}
+
+.post-excerpt-container {
     margin-top: 100px;
 }
 
