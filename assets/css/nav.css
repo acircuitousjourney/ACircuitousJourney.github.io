@@ -1,0 +1,21 @@
+nav a {
+    font-family: Amatic SC;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 50px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color:#a1d2d2;
+}
+
+nav figure {
+    margin: 0;
+}
+
+.nav-link {
+    padding: 0rem 1rem;
+}
