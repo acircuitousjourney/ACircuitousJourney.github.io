@@ -7,7 +7,7 @@ title: Home
         {% for post in site.posts %}
             <li href={{ post.url }} class="col-sm-12 col-xl-4">
                 <img  href="{{ post.url }}" class="image-thumbnail" src="{{ post.image }}"/>
-                <p>{{ post.excerpt }}</p>
+                <p>{{ post.content }}</p>
             </li>
         {% endfor %}
     </ul>
