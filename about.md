@@ -2,6 +2,9 @@
 layout: default
 title: About
 ---
-# About page
+<- Jessie
+<br/> 
+Colin ->
 
-This page tells you a little bit about me.
+<img class="image-thumbnail" src="/assets/post-images/2020-February/cafe.jpg">
+
