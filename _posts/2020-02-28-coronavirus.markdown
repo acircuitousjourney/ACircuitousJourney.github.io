@@ -2,9 +2,9 @@
 layout: post
 title: "Coronavirus"
 date: 2020-02-28 13:45:12 -0800
-image: /assets/post-images/2020-February/coronavirus.jpg
+image: /assets/post-images/2020-February/san-diego-sunset.jpg
 ---
-It's all coronavirus all the time now. We've watched it slowly expand and eat away at the destinations we have planned.
+It's all coronavirus all the time now (pic related: life before the virus). We've watched it slowly expand and eat away at the destinations we have planned.
 First, China was clearly out. Then, well South Korea has a warning, but there's only a Level 2 warning from the CDC, so no problem really.
 Now we're waking up in a cold sweat, scrambling for the latest news on our phones. Still a Level 2 warning from Japan, so as of right now,
 February 28, we're going ahead to Tokyo, and then skipping over the whole China, Korea situation and headed straight to South East Asia.
